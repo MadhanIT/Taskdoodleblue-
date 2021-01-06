@@ -6,7 +6,7 @@
     "@babel/polyfill": "^7.0.0",
     "@babel/runtime": "^7.0.0",
     "@o2xp/react-datatable": "^1.1.37",
-    "axios": "^0.18.1",
+    "axios": "^0.21.1",
     "babel-preset-es2015": "^6.24.1",
     "babel-preset-stage-1": "^6.24.1",
     "body-parser": "^1.19.0",
